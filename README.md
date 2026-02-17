@@ -58,12 +58,20 @@ Customer-Churn-Prediction/
 
 
 # How To Run
-```git clone https://github.com/Lovekush-1509/Customer-Churn-Prediction.git ```
+```
+git clone https://github.com/Lovekush-1509/Customer-Churn-Prediction.git 
+```
 
-``` cd Customer-Churn-Prediction ```
+``` 
+cd Customer-Churn-Prediction
+ ```
 
 # train data using command
-``` python main.py ```
+``` 
+python main.py
+ ```
 
 # Prediction
-```python predict.py <data_set location>```
+```
+python predict.py <data_set location>
+```
