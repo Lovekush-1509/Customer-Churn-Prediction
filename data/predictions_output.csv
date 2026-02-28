@@ -1,5 +1,5 @@
 gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,Churn_Prediction
-1,0,1,0,5,1,0,1,0,2,0,0,2,2,0,1,2,85.5,427.5,Customer going to be Churn
-0,0,0,0,40,1,2,0,2,2,2,2,2,2,2,0,1,60.2,2408.0,Customer going to be Stay
-1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,1,2,95.0,190.0,Customer going to be Churn
-0,0,1,1,60,1,2,0,2,2,2,2,2,2,2,0,0,45.0,2700.0,Customer going to be Stay
+1,0,1,0,5,1,0,1,0,2,0,0,2,2,0,1,2,85.5,427.5,Customer going to Churn
+0,0,0,0,40,1,2,0,2,2,2,2,2,2,2,0,1,60.2,2408.0,Customer going to Stay
+1,1,0,0,2,1,0,1,0,0,0,0,0,0,0,1,2,95.0,190.0,Customer going to Churn
+0,0,1,1,60,1,2,0,2,2,2,2,2,2,2,0,0,45.0,2700.0,Customer going to Stay
