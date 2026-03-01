@@ -1,5 +1,11 @@
 # Customer Churn Prediction
 
+## 🌐 Live Application
+
+🔗 **Live Demo:**  
+https://customer-churn-prediction-pi.vercel.app/
+
+
 ## Overview
 This project predicts whether a customer will **churn (leave the company)** or **stay** using machine learning.  
 It is built using **Python**, **scikit-learn**, and the **Telco Customer Churn dataset** from Kaggle.
